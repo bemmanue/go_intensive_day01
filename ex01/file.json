@@ -1,0 +1,24 @@
+{
+	"cake": [
+		{
+			"name": "Red Velvet Strawberry Cake",
+			"time": "40 min",
+			"ingredients": [
+				{
+					"ingredient_name": "Flour",
+					"ingredient_count": "3"
+				},
+				{
+					"ingredient_name": "Milk",
+					"ingredient_count": "2",
+					"ingredient_unit": "glass"
+				},
+				{
+					"ingredient_name": "Vanilla extract",
+					"ingredient_count": "1.5",
+					"ingredient_unit": "tablespoons"
+				}
+			]
+		}
+	]
+}
