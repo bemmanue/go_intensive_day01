@@ -1,4 +1,4 @@
-# go_intensive_day01
+# Day 01 - Go Intensive
 ## Comparing incomparable
 
 ## Chapter I
