@@ -1,4 +1,4 @@
-module ex01
+module campareDB
 
 go 1.18
 
